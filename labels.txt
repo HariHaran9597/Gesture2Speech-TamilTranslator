@@ -1,0 +1,7 @@
+0 Hello
+1 Thankyou
+2 No
+3 Yes
+4 loo
+5 Spidey
+6 Iloveyou
